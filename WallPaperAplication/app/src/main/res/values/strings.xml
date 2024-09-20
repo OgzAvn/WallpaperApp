@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WallPaperAplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="MyPhotos">MyPhotos\n</string>
+    <string name="setwallpaper">SetWallpaper</string>
+    <string name="save_gallery">SaveGallery</string>
+    <string name="wallpaper_set_success">wallpaper_set_success</string>
+    <string name="PermissionDenied">PermissionDenied</string>
+    <string name="PermissionGranted">PermissionGranted</string>
+    <string name="AllowPermission">AllowPermission</string>
+    <string name="GiveMePermission">GiveMePermission</string>
+    <string name="wallpaper_save_success">wallpaper_save_success</string>
+</resources>
